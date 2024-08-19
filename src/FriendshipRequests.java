@@ -1,3 +1,6 @@
+//Question3a
+//Time Complexity: O(n+r)
+
 import java.util.*;
 
 public class FriendshipRequests {

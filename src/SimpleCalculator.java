@@ -1,3 +1,6 @@
+//Question2a
+//Time Complexity: O(n)
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

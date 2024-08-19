@@ -1,3 +1,7 @@
+//Question1b
+//Time Complexity:O(m×k)
+
+
 public class SecretDecoderRing {
     public static String rotateChar(char c, int direction) {
         if (direction == 1) {

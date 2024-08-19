@@ -1,3 +1,6 @@
+//Question3b
+//Time Complexity: O(n)
+
 import java.util.ArrayList;
 import java.util.List;
 

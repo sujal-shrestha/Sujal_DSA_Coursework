@@ -1,3 +1,6 @@
+//Question2b
+//Time Complexity: O(n)
+
 public class MovieTheaterSeating {
     public static boolean canSitTogether(int[] nums, int indexDiff, int valueDiff) {
         for (int i = 0; i < nums.length; i++) {

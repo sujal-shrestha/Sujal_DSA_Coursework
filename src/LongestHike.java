@@ -1,3 +1,6 @@
+//Question5b
+//Time Complexity: O(n)
+
 public class LongestHike {
     public static int longestHike(int[] nums, int k) {
         int maxLength = 0;

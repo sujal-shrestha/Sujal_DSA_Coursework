@@ -1,3 +1,7 @@
+//Question1a
+//Time Complexity:O(nlogn)
+
+
 import java.util.Arrays;
 import java.util.Comparator;
 

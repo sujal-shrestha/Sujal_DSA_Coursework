@@ -1,3 +1,6 @@
+//Question6
+//Time Complexity: O(f)
+
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
